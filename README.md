@@ -1,7 +1,11 @@
 # **Hi there 👋 My name is [Cesar](https://www.linkedin.com/in/cesardleonesm/)**
 ***
 
+"
+
 I'm not the best one, but i do everything i can do... and more
+
+"
 
 ***
 ## My Skills
