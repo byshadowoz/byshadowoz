@@ -20,6 +20,7 @@ I'm not the best one, but i do everything i can do... and more
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
+***
 
 ### Frameworks and libraries:
 <p align="center">
@@ -34,6 +35,8 @@ I'm not the best one, but i do everything i can do... and more
 <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-000000.svg?logo=sqlalchemy&logoColor=white"></a>
 
 </p>
+
+***
 
 ### Tools:
 <p align="center">
