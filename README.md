@@ -8,8 +8,7 @@ I'm not the best one, but i do everything i can do... and more
 "
 
 ***
-## My Skills
-***
+## My Skills:
 
 ### Programing languages:
 <p align="center">
