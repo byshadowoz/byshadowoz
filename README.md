@@ -7,11 +7,11 @@ I'm not the best one, but i do everything i can do... and more
 
 "
 
-## My Skills:
+# My Skills:
 
 ***
 
-### Programing languages:
+## Programing languages:
 <p align="center">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown"></a>
@@ -20,9 +20,8 @@ I'm not the best one, but i do everything i can do... and more
 <img alt="R" src="https://custom-icon-badges.demolab.com/badge/R-4b4b4b.svg?logo=r&logoColor=white"></a>
 </p>
 
-***
 
-### Frameworks and libraries:
+## Frameworks and libraries:
 <p align="center">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1f00b9.svg?logo=pandas&logoColor=white"></a>
 <img alt="PySpark" src="https://img.shields.io/badge/PySpark-ff943e.svg?logo=apachespark&logoColor=white"></a>
@@ -38,9 +37,8 @@ I'm not the best one, but i do everything i can do... and more
 
 </p>
 
-***
 
-### Tools:
+## Tools:
 <p align="center">
 <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <img alt="Tableau" src="https://custom-icon-badges.demolab.com/badge/Tableau-fca549.svg?logo=simpleicons-team-simple-tableau&logoColor=white"></a>
@@ -55,7 +53,15 @@ I'm not the best one, but i do everything i can do... and more
 </p>
 
 
+## Cloud Services:
 
+
+<p align="center">
+<img alt="netlify" src="https://custom-icon-badges.demolab.com/badge/Netlify-006c4a.svg?logo=netlify"></a>
+<img alt="snowflake" src="https://custom-icon-badges.demolab.com/badge/Snowflake-c8ffee.svg?logo=snowflake"></a>
+
+  
+</p>
 
 
 
