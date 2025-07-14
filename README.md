@@ -34,6 +34,8 @@ I'm not the best one, but i do everything i can do... and more
 <img alt="tensorflow" src="https://custom-icon-badges.demolab.com/badge/TensorFlow-343434.svg?logo=tensorflow&logoColor=orange"></a>
 <img alt="pytorch" src="https://custom-icon-badges.demolab.com/badge/Pytorch-343434.svg?logo=pytorch"></a>
 <img alt="hugginface" src="https://custom-icon-badges.demolab.com/badge/Hugging%20Face-ff7100.svg?logo=huggingface"></a>
+<img alt="Streamlit" src="https://custom-icon-badges.demolab.com/badge/Streamlit-9e171d.svg?logo=streamlit&logoColor=white"></a>
+<img alt="hugo" src="https://custom-icon-badges.demolab.com/badge/Hugo-303535.svg?logo=hugo"></a>
 
 </p>
 
